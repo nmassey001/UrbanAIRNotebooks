@@ -10,4 +10,4 @@ It has the following format:
   "secretKey" : ""
 }
 ```
-File in these values from those obtained from the object store portal.
+Fill in these values from those obtained from the object store portal.
